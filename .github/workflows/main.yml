@@ -14,8 +14,8 @@ jobs:
           id: netsparker-enterprise-scan-step
           with:
             website-id: '68848ac6-59e6-4fd3-fdd1-b067032efa32'
-            scan-type: 'FullWithPrimaryProfile'
-            profile-id: '00000000-0000-0000-0000-000000000000'
+            scan-type: 'FullWithSelectedProfile'
+            profile-id: '89194bdf-8d5c-45d5-7e50-b06703410d75'
             user-id: 33ab1a27b10048764cbfafa80349309b
             api-token: GpiPaLc2lors2aIFAs+lPh1pWS9oV2nugtXw6pBwIFg=
             base-url: 'https://www.netsparkercloud.com'
